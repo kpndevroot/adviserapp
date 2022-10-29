@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "advicer",
+    "slug": "advicer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "advicer"
+}

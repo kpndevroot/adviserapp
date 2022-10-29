@@ -18,4 +18,4 @@ yarn
 yarn android
 ```
 
-### [Release]()
+### [Release](https://github.com/kpndevroot/advicerapp/releases)

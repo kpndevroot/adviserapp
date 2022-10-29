@@ -1,10 +1,9 @@
-#**Adviser**
+# **Adviser**
 
 ## Requirements
 
 ```
 => react-native
-
 ```
 
 ## How to install
